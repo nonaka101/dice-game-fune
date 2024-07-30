@@ -8,7 +8,7 @@ This `README` is in English, the **Japanese version** is [here](./README-ja.md).
 
 ## How to play
 
-You can play in your browser from [this link](./)(Japanese version is [here](./)). Please see below for a description of the game flow and combinations.
+You can play in your browser from [this link](https://nonaka101.github.io/dice-game-fune/) ( Japanese version is [here](https://nonaka101.github.io/dice-game-fune/index-ja.html) ). Please see below for a description of the game flow and combinations.
 
 - [How to play this game (EN)](./notes/how-to-play-en.md)
 - [遊び方(JP)](./notes/how-to-play-ja.md)

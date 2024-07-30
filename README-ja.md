@@ -8,7 +8,7 @@ This `README` is in Japanese, the English version is [here](./README.md).
 
 ## 遊び方
 
-[リンク](./)（[英語版](./)）より、ブラウザ上で遊ぶことができます。ゲームの流れや役の説明については、下記を参照ください。
+[リンク](https://nonaka101.github.io/dice-game-fune/index-ja.html)（[英語版](https://nonaka101.github.io/dice-game-fune/)）より、ブラウザ上で遊ぶことができます。ゲームの流れや役の説明については、下記を参照ください。
 
 - [How to play this game (EN)](./notes/how-to-play-en.md)
 - [遊び方 (JP)](./notes/how-to-play-ja.md)
