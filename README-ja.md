@@ -6,9 +6,14 @@
 
 This `README` is in Japanese, the English version is [here](./README.md).
 
+ゲーム
+
+- [日本語版(JP)](https://nonaka101.github.io/dice-game-fune/index-ja.html)
+- [英語版(EN)](https://nonaka101.github.io/dice-game-fune/)
+
 ## 遊び方
 
-[リンク](https://nonaka101.github.io/dice-game-fune/index-ja.html)（[英語版](https://nonaka101.github.io/dice-game-fune/)）より、ブラウザ上で遊ぶことができます。ゲームの流れや役の説明については、下記を参照ください。
+上記リンクより、ブラウザ上で遊ぶことができます。ゲームの流れや役の説明については、下記を参照ください。
 
 - [How to play this game (EN)](./notes/how-to-play-en.md)
 - [遊び方 (JP)](./notes/how-to-play-ja.md)
